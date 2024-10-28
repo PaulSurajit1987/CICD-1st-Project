@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1730139343,,"wq"
+|2,0,1730143845,,"wq"
 :q!
 |2,0,1729796911,,"q!"
 :wq!
@@ -38,30 +38,50 @@ $
 # Registers:
 
 # File marks:
-'0  11  6  ~/index.html
-|4,48,11,6,1730139343,"~/index.html"
-'1  24  0  /home/ec2-user/web.yml
-|4,49,24,0,1729796911,"/home/ec2-user/web.yml"
-'2  24  0  /home/ec2-user/web.yml
-|4,50,24,0,1729796862,"/home/ec2-user/web.yml"
+'0  16  27  ~/web.html
+|4,48,16,27,1730143845,"~/web.html"
+'1  16  16  ~/web.html
+|4,49,16,16,1730143814,"~/web.html"
+'2  11  6  ~/index.html
+|4,50,11,6,1730139343,"~/index.html"
 '3  24  0  /home/ec2-user/web.yml
-|4,51,24,0,1729796842,"/home/ec2-user/web.yml"
+|4,51,24,0,1729796911,"/home/ec2-user/web.yml"
 '4  24  0  /home/ec2-user/web.yml
-|4,52,24,0,1729796842,"/home/ec2-user/web.yml"
-'5  1  0  /etc/ssh/sshd_config
-|4,53,1,0,1729448058,"/etc/ssh/sshd_config"
-'6  8  0  /
-|4,54,8,0,1729448058,"/"
-'7  12  0  /etc/ssh/sshd_config
-|4,55,12,0,1729428304,"/etc/ssh/sshd_config"
-'8  133  0  /etc/ssh/sshd_config
-|4,56,133,0,1729428280,"/etc/ssh/sshd_config"
-'9  133  0  /etc/ssh/sshd_config
-|4,57,133,0,1729428280,"/etc/ssh/sshd_config"
+|4,52,24,0,1729796862,"/home/ec2-user/web.yml"
+'5  24  0  /home/ec2-user/web.yml
+|4,53,24,0,1729796842,"/home/ec2-user/web.yml"
+'6  24  0  /home/ec2-user/web.yml
+|4,54,24,0,1729796842,"/home/ec2-user/web.yml"
+'7  1  0  /etc/ssh/sshd_config
+|4,55,1,0,1729448058,"/etc/ssh/sshd_config"
+'8  8  0  /
+|4,56,8,0,1729448058,"/"
+'9  12  0  /etc/ssh/sshd_config
+|4,57,12,0,1729428304,"/etc/ssh/sshd_config"
 
 # Jumplist (newest first):
+-'  16  27  ~/web.html
+|4,39,16,27,1730143845,"~/web.html"
+-'  16  16  ~/web.html
+|4,39,16,16,1730143814,"~/web.html"
+-'  1  0  ~/web.html
+|4,39,1,0,1730143755,"~/web.html"
+-'  1  0  ~/web.html
+|4,39,1,0,1730143755,"~/web.html"
 -'  11  6  ~/index.html
 |4,39,11,6,1730139343,"~/index.html"
+-'  11  6  ~/index.html
+|4,39,11,6,1730139343,"~/index.html"
+-'  11  6  ~/index.html
+|4,39,11,6,1730139343,"~/index.html"
+-'  11  6  ~/index.html
+|4,39,11,6,1730139343,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1730139322,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1730139322,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1730139322,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1730139322,"~/index.html"
 -'  24  0  /home/ec2-user/web.yml
@@ -69,9 +89,45 @@ $
 -'  24  0  /home/ec2-user/web.yml
 |4,39,24,0,1729796911,"/home/ec2-user/web.yml"
 -'  24  0  /home/ec2-user/web.yml
+|4,39,24,0,1729796911,"/home/ec2-user/web.yml"
+-'  24  0  /home/ec2-user/web.yml
+|4,39,24,0,1729796911,"/home/ec2-user/web.yml"
+-'  24  0  /home/ec2-user/web.yml
+|4,39,24,0,1729796911,"/home/ec2-user/web.yml"
+-'  24  0  /home/ec2-user/web.yml
+|4,39,24,0,1729796911,"/home/ec2-user/web.yml"
+-'  24  0  /home/ec2-user/web.yml
+|4,39,24,0,1729796911,"/home/ec2-user/web.yml"
+-'  24  0  /home/ec2-user/web.yml
+|4,39,24,0,1729796911,"/home/ec2-user/web.yml"
+-'  24  0  /home/ec2-user/web.yml
 |4,39,24,0,1729796862,"/home/ec2-user/web.yml"
 -'  24  0  /home/ec2-user/web.yml
 |4,39,24,0,1729796862,"/home/ec2-user/web.yml"
+-'  24  0  /home/ec2-user/web.yml
+|4,39,24,0,1729796862,"/home/ec2-user/web.yml"
+-'  24  0  /home/ec2-user/web.yml
+|4,39,24,0,1729796862,"/home/ec2-user/web.yml"
+-'  24  0  /home/ec2-user/web.yml
+|4,39,24,0,1729796862,"/home/ec2-user/web.yml"
+-'  24  0  /home/ec2-user/web.yml
+|4,39,24,0,1729796862,"/home/ec2-user/web.yml"
+-'  24  0  /home/ec2-user/web.yml
+|4,39,24,0,1729796862,"/home/ec2-user/web.yml"
+-'  24  0  /home/ec2-user/web.yml
+|4,39,24,0,1729796862,"/home/ec2-user/web.yml"
+-'  24  0  /home/ec2-user/web.yml
+|4,39,24,0,1729796842,"/home/ec2-user/web.yml"
+-'  24  0  /home/ec2-user/web.yml
+|4,39,24,0,1729796842,"/home/ec2-user/web.yml"
+-'  24  0  /home/ec2-user/web.yml
+|4,39,24,0,1729796842,"/home/ec2-user/web.yml"
+-'  24  0  /home/ec2-user/web.yml
+|4,39,24,0,1729796842,"/home/ec2-user/web.yml"
+-'  24  0  /home/ec2-user/web.yml
+|4,39,24,0,1729796842,"/home/ec2-user/web.yml"
+-'  24  0  /home/ec2-user/web.yml
+|4,39,24,0,1729796842,"/home/ec2-user/web.yml"
 -'  24  0  /home/ec2-user/web.yml
 |4,39,24,0,1729796842,"/home/ec2-user/web.yml"
 -'  24  0  /home/ec2-user/web.yml
@@ -88,6 +144,42 @@ $
 |4,39,1,0,1729796828,"/home/ec2-user/web.yml"
 -'  1  0  /home/ec2-user/web.yml
 |4,39,1,0,1729796828,"/home/ec2-user/web.yml"
+-'  1  0  /home/ec2-user/web.yml
+|4,39,1,0,1729796828,"/home/ec2-user/web.yml"
+-'  1  0  /home/ec2-user/web.yml
+|4,39,1,0,1729796828,"/home/ec2-user/web.yml"
+-'  1  0  /home/ec2-user/web.yml
+|4,39,1,0,1729796828,"/home/ec2-user/web.yml"
+-'  1  0  /home/ec2-user/web.yml
+|4,39,1,0,1729796828,"/home/ec2-user/web.yml"
+-'  1  0  /home/ec2-user/web.yml
+|4,39,1,0,1729796828,"/home/ec2-user/web.yml"
+-'  1  0  /home/ec2-user/web.yml
+|4,39,1,0,1729796828,"/home/ec2-user/web.yml"
+-'  1  0  /home/ec2-user/web.yml
+|4,39,1,0,1729796828,"/home/ec2-user/web.yml"
+-'  1  0  /home/ec2-user/web.yml
+|4,39,1,0,1729796828,"/home/ec2-user/web.yml"
+-'  1  0  /home/ec2-user/web.yml
+|4,39,1,0,1729796828,"/home/ec2-user/web.yml"
+-'  1  0  /home/ec2-user/web.yml
+|4,39,1,0,1729796828,"/home/ec2-user/web.yml"
+-'  1  0  /home/ec2-user/web.yml
+|4,39,1,0,1729796828,"/home/ec2-user/web.yml"
+-'  1  0  /home/ec2-user/web.yml
+|4,39,1,0,1729796828,"/home/ec2-user/web.yml"
+-'  1  0  /home/ec2-user/web.yml
+|4,39,1,0,1729796828,"/home/ec2-user/web.yml"
+-'  1  0  /home/ec2-user/web.yml
+|4,39,1,0,1729796828,"/home/ec2-user/web.yml"
+-'  1  0  /home/ec2-user/web.yml
+|4,39,1,0,1729796828,"/home/ec2-user/web.yml"
+-'  1  0  /home/ec2-user/web.yml
+|4,39,1,0,1729796828,"/home/ec2-user/web.yml"
+-'  1  0  /home/ec2-user/web.yml
+|4,39,1,0,1729796828,"/home/ec2-user/web.yml"
+-'  1  0  /home/ec2-user/web.yml
+|4,39,1,0,1729796828,"/home/ec2-user/web.yml"
 -'  1  0  /etc/ssh/sshd_config
 |4,39,1,0,1729448058,"/etc/ssh/sshd_config"
 -'  8  0  /
@@ -152,116 +244,32 @@ $
 |4,39,1,0,1729448058,"/etc/ssh/sshd_config"
 -'  8  0  /
 |4,39,8,0,1729448058,"/"
--'  12  0  /etc/ssh/sshd_config
-|4,39,12,0,1729428304,"/etc/ssh/sshd_config"
--'  12  0  /etc/ssh/sshd_config
-|4,39,12,0,1729428304,"/etc/ssh/sshd_config"
--'  12  0  /etc/ssh/sshd_config
-|4,39,12,0,1729428304,"/etc/ssh/sshd_config"
--'  12  0  /etc/ssh/sshd_config
-|4,39,12,0,1729428304,"/etc/ssh/sshd_config"
--'  12  0  /etc/ssh/sshd_config
-|4,39,12,0,1729428304,"/etc/ssh/sshd_config"
--'  12  0  /etc/ssh/sshd_config
-|4,39,12,0,1729428304,"/etc/ssh/sshd_config"
--'  12  0  /etc/ssh/sshd_config
-|4,39,12,0,1729428304,"/etc/ssh/sshd_config"
--'  12  0  /etc/ssh/sshd_config
-|4,39,12,0,1729428304,"/etc/ssh/sshd_config"
--'  12  0  /etc/ssh/sshd_config
-|4,39,12,0,1729428304,"/etc/ssh/sshd_config"
--'  12  0  /etc/ssh/sshd_config
-|4,39,12,0,1729428304,"/etc/ssh/sshd_config"
--'  12  0  /etc/ssh/sshd_config
-|4,39,12,0,1729428304,"/etc/ssh/sshd_config"
--'  12  0  /etc/ssh/sshd_config
-|4,39,12,0,1729428304,"/etc/ssh/sshd_config"
--'  12  0  /etc/ssh/sshd_config
-|4,39,12,0,1729428304,"/etc/ssh/sshd_config"
--'  12  0  /etc/ssh/sshd_config
-|4,39,12,0,1729428304,"/etc/ssh/sshd_config"
--'  12  0  /etc/ssh/sshd_config
-|4,39,12,0,1729428304,"/etc/ssh/sshd_config"
--'  12  0  /etc/ssh/sshd_config
-|4,39,12,0,1729428304,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428286,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428286,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428286,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428286,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428286,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428286,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428286,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428286,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428286,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428286,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428286,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428286,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428286,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428286,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428286,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428286,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428280,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428280,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428280,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428280,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428280,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428280,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428280,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428280,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428280,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428280,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428280,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428280,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428280,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428280,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428280,"/etc/ssh/sshd_config"
--'  133  0  /etc/ssh/sshd_config
-|4,39,133,0,1729428280,"/etc/ssh/sshd_config"
 -'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1729428150,"/etc/ssh/sshd_config"
+|4,39,1,0,1729448058,"/etc/ssh/sshd_config"
+-'  8  0  /
+|4,39,8,0,1729448058,"/"
 -'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1729428150,"/etc/ssh/sshd_config"
+|4,39,1,0,1729448058,"/etc/ssh/sshd_config"
+-'  8  0  /
+|4,39,8,0,1729448058,"/"
 -'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1729428150,"/etc/ssh/sshd_config"
+|4,39,1,0,1729448058,"/etc/ssh/sshd_config"
+-'  8  0  /
+|4,39,8,0,1729448058,"/"
 -'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1729428150,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1729428150,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1729428150,"/etc/ssh/sshd_config"
+|4,39,1,0,1729448058,"/etc/ssh/sshd_config"
+-'  8  0  /
+|4,39,8,0,1729448058,"/"
 
 # History of marks within files (newest to oldest):
+
+> ~/web.html
+	*	1730143840	0
+	"	16	27
+	^	16	28
+	.	16	27
+	+	21	21
+	+	16	27
 
 > ~/index.html
 	*	1730139339	0
